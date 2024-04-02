@@ -22,3 +22,6 @@ This repository is meant to help people use `zrok` to run [Enshrouded](https://e
 * run `start-client.ps1` (the script is not signed, research this if you don't understand it):
 
 	  powershell.exe -ExecutionPolicy Bypass -File start-client.ps1
+
+### YouTube Video Overview:
+[<img src="https://img.youtube.com/vi/hLTMPvsrNcY/hqdefault.jpg">](https://youtu.be/hLTMPvsrNcY)
