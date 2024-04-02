@@ -1,6 +1,6 @@
 $PATH_TO_ZROK="C:\zrok\zrok.exe"
 $ENSHROUDED_SERVER_IP = "127.0.0.1"
-$ENSHROUDED_PORT = "8211"
+$ENSHROUDED_PORT = "15637"
 
 do {
     if (Test-Path $PATH_TO_ZROK -PathType Leaf) {
