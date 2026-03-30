@@ -8,7 +8,7 @@ This repository is meant to help people use `zrok` to run [Enshrouded](https://e
 
 ### Prerequisites
 * follow any popular guide on downloading/installing a [Enshrouded Dedicated Server](https://www.eurogamer.net/enshrouded-how-to-get-set-up-a-dedicated-server-create-join-9410) through Steam, but don't bother with opening your firewall/forwarding ports
-* download [the latest zrok for windows](https://github.com/openziti/zrok/releases/latest) (zrok_0.4.26_windows_amd64.tar.gz as of apr 1 2024). YES - even the clients need to download `zrok`
+* download [the latest zrok v1 for windows (as of mar-30-2026 1.1.10)](https://github.com/openziti/zrok/releases/tag/v1.1.10) **do not download zrok2**. YES - even the clients need to download `zrok`
 * use windows explorer (win11+) or 7zip or something to ungzip and untar the download
 * put the zrok.exe somewhere you can find, for example `c:\zrok\zrok.exe`
 * invite yourself to zrok using: `zrok invite` (see the [official doc for help](https://docs.zrok.io/docs/getting-started/#generating-an-invitation))
